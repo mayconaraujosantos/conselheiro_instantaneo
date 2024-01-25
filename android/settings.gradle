@@ -1,4 +1,4 @@
-rootProject.name = 'consoelheiro'
+rootProject.name = 'DicasApp'
 
 dependencyResolutionManagement {
   versionCatalogs {

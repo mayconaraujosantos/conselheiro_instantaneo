@@ -1,4 +1,4 @@
-package com.consoelheiro
+package com.dicasapp
 
 import android.os.Build
 import android.os.Bundle

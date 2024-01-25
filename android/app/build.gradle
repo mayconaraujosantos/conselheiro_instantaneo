@@ -83,9 +83,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.consoelheiro"
+    namespace "com.dicasapp"
     defaultConfig {
-        applicationId "com.consoelheiro"
+        applicationId "com.dicasapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

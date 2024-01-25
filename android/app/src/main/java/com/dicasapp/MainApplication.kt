@@ -1,4 +1,4 @@
-package com.consoelheiro
+package com.dicasapp
 
 import android.app.Application
 import android.content.res.Configuration

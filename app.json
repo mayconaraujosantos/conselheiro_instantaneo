@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "consoelheiro",
-    "slug": "consoelheiro",
+    "name": "DicasApp",
+    "slug": "DicasApp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
