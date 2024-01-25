@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "consoelheiro",
+    "slug": "consoelheiro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
